@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, Kevin Kibebe</h1>
-<h3 align="center">A passionate Fullstack Developer</h3>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 <br/>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
